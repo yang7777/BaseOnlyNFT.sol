@@ -1,0 +1,1 @@
+# BaseOnlyNFT.sol
